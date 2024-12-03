@@ -1,6 +1,6 @@
 # Hi There! 👋 I'm Muhammad Mousa Naeem  
 
-[LinkedIn](https://linkedin.com/in/YourProfile)
+[Let's connect on LinkedIn](https://linkedin.com/in/muhammad-mousa-naeem)
 
 ## 🚀 About Me  
 I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 1 year of professional experience, now expanding my skill set into **Microsoft Azure DevOps** and the AI technologies emerging with the tech. My focus is on building scalable, efficient, and robust solutions while staying updated with the evolving tech landscape.
@@ -20,7 +20,7 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 
 ## 📈 GitHub Stats  
 
-[Github Stats](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=dark&cache_seconds=10)
+![My GitHub stats 😎](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&cache_seconds=60&a=2)
 ---
 
 ## 🎯 Current Focus 
