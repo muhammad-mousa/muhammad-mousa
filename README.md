@@ -23,8 +23,10 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 [Github Stats](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=dark&cache_seconds=10)
 ---
 
-## 📫 Current Focus 
+## 🎯 Current Focus 
 
-- **Learning:** Azure DevOps, NextJs
-- **Researching:** Personal Branding
-- **Honing Skills:** LeetCode Challanges 
+- 🔍 **Learning:** Azure DevOps, NextJs
+- 💡 **Researching:** Personal Branding
+- 🔧 **Honing Skills:** LeetCode Challanges 
+
+Thanks for stopping by! 😃
