@@ -15,10 +15,10 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 ---
 
 ## 📜 Certifications
-🏅[**Mirosoft Certified C# Fundamentals**](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/?wt.mc_id=studentamb_437139)
-
 🏅 **Certified .NET Specialist & Expert (EVS)**  
-🏅 **Certified Angular Developer (EVS)** 
+🏅 **Certified Angular Developer (EVS)**
+🏅[**Mirosoft Certified C# Fundamentals**](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/?wt.mc_id=studentamb_437139)
+ 
 ---
 
 ## 📈 GitHub Stats  
