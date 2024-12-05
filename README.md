@@ -17,6 +17,7 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 ## 📜 Certifications
 🏅 **Certified .NET Specialist & Expert (EVS)**  
 🏅 **Certified Angular Developer (EVS)**
+
 🏅[**Mirosoft Certified C# Fundamentals**](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/?wt.mc_id=studentamb_437139)
 
  
@@ -24,7 +25,8 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 
 ## 📈 GitHub Stats  
 
-![My GitHub stats 😎](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&cache_seconds=60&a=2)
+![My GitHub stats 😎](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=radical&cache_seconds=20)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-mousa&layout=compact&theme=radical)
 ---
 
 ## 🎯 Current Focus 
