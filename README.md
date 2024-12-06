@@ -2,8 +2,9 @@
 
 [Let's connect on LinkedIn](https://linkedin.com/in/muhammad-mousa-naeem)
 
-## 🚀 About Me  
+## 🚀 About Me
 I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 1 year of professional experience, now expanding my skill set into **Microsoft Azure DevOps** and the AI technologies emerging with the tech. My focus is on building scalable, efficient, and robust solutions while staying updated with the evolving tech landscape.
+
 ---
 
 ## 🛠️ Skills  
@@ -15,10 +16,10 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 ---
 
 ## 📜 Certifications
-🏅 **Certified .NET Specialist & Expert (EVS)**  
-🏅 **Certified Angular Developer (EVS)**
 
-🏅[**Mirosoft Certified C# Fundamentals**](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/?wt.mc_id=studentamb_437139)
+🏅 [**Mirosoft Certified C# Fundamentals**](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/?wt.mc_id=studentamb_437139)  
+🏅 **Certified .NET Specialist & Expert (EVS)**  
+🏅 **Certified Angular Developer (EVS)**  
 
  
 ---
