@@ -26,7 +26,6 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
  ## 📦 My Collaborations
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=mark-me&theme=radical)](https://github.com/ZU3AIRE/mark-me)
 
-
 ---
 
 ## 📈 GitHub Stats  
