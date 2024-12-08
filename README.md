@@ -1,6 +1,7 @@
 # Hi There! 👋 I'm Muhammad Mousa Naeem  
 
-[Let's connect on LinkedIn](https://linkedin.com/in/muhammad-mousa-naeem)
+📫 Email: mousa.naeem.01@outlook.com<br/>
+💼 LinkedIn: [Let's connect on LinkedIn](https://linkedin.com/in/muhammad-mousa-naeem)
 
 ## 🚀 About Me
 I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 1 year of professional experience, now expanding my skill set into **Microsoft Azure DevOps** and the AI technologies emerging with the tech. My focus is on building scalable, efficient, and robust solutions while staying updated with the evolving tech landscape.
