@@ -31,7 +31,7 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 
 ## 📈 GitHub Stats  
 
-![My GitHub stats 😎](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=radical&cache_seconds=20)
+![My GitHub stats 😎](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=radical&cache_seconds=40)
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-mousa&layout=compact&theme=radical)
 ---
 
