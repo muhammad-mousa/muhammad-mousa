@@ -10,8 +10,8 @@ I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 
 
 ## 🛠️ Skills  
 
-**Programming Languages:** C#, TypeScript, JavaScript   
-- **Framworks & Tools:** .NET Core, ASP.NET, Angular  
+**Programming Languages:** C#, TypeScript, JavaScript, SQL   
+- **Framworks & Tools:** .NET Core, ASP.NET, Angular, SQL Server  
 - **Cloud Plateforms:** Microsoft Azure   
 - **Others:** RESRful APIs, DSA, Grapth Theory  
 ---
