@@ -2,8 +2,6 @@
 
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousa.naeem.01@outlook.com)   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mousa-naeem)   
 
----
-
 ## 🚀 About Me
 I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**, having 1 year of professional experience.  
 Currently, I’m diving deeper into **Microsoft Azure DevOps** and exploring the transformative world of **AI technologies**.  
