@@ -1,44 +1,69 @@
-# Hi There! 👋 I'm Muhammad Mousa Naeem  
+# Hi There! 👋 I'm **Muhammad Mousa Naeem**
 
-📫 Email: mousa.naeem.01@outlook.com<br/>
-💼 LinkedIn: [Let's connect on LinkedIn](https://linkedin.com/in/muhammad-mousa-naeem)
-
-## 🚀 About Me
-I'm a **Software Engineer** with a focus on **Microsoft .NET and Angular** with 1 year of professional experience, now expanding my skill set into **Microsoft Azure DevOps** and the AI technologies emerging with the tech. My focus is on building scalable, efficient, and robust solutions while staying updated with the evolving tech landscape.
+📫 **Email:** mousa.naeem.01@outlook.com  
+💼 **LinkedIn:** [Let's connect on LinkedIn](https://linkedin.com/in/muhammad-mousa-naeem)  
 
 ---
 
-## 🛠️ Skills  
+## 🚀 About Me
+I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**, having 1 year of professional experience.  
+Currently, I’m diving deeper into **Microsoft Azure DevOps** and exploring the transformative world of **AI technologies**.  
+I’m passionate about building **scalable, efficient, and robust solutions** while staying ahead in the ever-evolving tech landscape.
 
-**Programming Languages:** C#, TypeScript, JavaScript, SQL
-- **Framworks & Tools:** .NET Core, ASP.NET, Angular, NextJs, SQL Server  
-- **Cloud Plateforms:** Microsoft Azure   
-- **Others:** RESRful APIs, DSA, Grapth Theory  
+---
+
+## 🛠️ Skills & Tech Stack
+
+### **Programming Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### **Frameworks & Tools**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### **Cloud Platforms**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### **Other Skills**  
+- RESTful APIs  
+- Data Structures & Algorithms  
+- Graph Theory  
+
 ---
 
 ## 📜 Certifications
 
-🏅 [**Mirosoft Certified C# Fundamentals**](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/?wt.mc_id=studentamb_437139)  
+🏅 [**Microsoft Certified C# Fundamentals**](https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification/?wt.mc_id=studentamb_437139)  
 🏅 **Certified .NET Specialist & Expert (EVS)**  
 🏅 **Certified Angular Developer (EVS)**  
 
 ---
 
- ## 📦 My Collaborations
+## 📦 My Collaborations
 [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=mark-me&theme=radical)](https://github.com/ZU3AIRE/mark-me)
 
 ---
 
 ## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=radical&cache_seconds=40)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-mousa&layout=compact&theme=radical)  
 
-![My GitHub stats 😎](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=radical&cache_seconds=40)
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-mousa&layout=compact&theme=radical)
 ---
 
-## 🎯 Current Focus 
+## 🎯 Current Focus  
 
-- 🔍 **Learning:** Azure DevOps, NextJs
-- 💡 **Researching:** Personal Branding
-- 🔧 **Honing Skills:** LeetCode Challanges 
+- 🔍 **Learning:** Azure DevOps, Next.js  
+- 💡 **Researching:** Personal Branding  
+- 🔧 **Honing Skills:** LeetCode Challenges  
 
-Thanks for stopping by! 😃
+---
+
+✨ Thanks for stopping by! Feel free to explore my repositories and connect with me! 😃
