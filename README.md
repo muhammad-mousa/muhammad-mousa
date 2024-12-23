@@ -1,7 +1,6 @@
 # Hi There! 👋 I'm **Muhammad Mousa Naeem**
 
-📫 **Email:** mousa.naeem.01@outlook.com  
-💼 **LinkedIn:** [Let's connect on LinkedIn](https://linkedin.com/in/muhammad-mousa-naeem)  
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousa.naeem.01@outlook.com)   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mousa-naeem)   
 
 ---
 
@@ -63,7 +62,5 @@ I’m passionate about building **scalable, efficient, and robust solutions** wh
 - 🔍 **Learning:** Azure DevOps, Next.js  
 - 💡 **Researching:** Personal Branding  
 - 🔧 **Honing Skills:** LeetCode Challenges  
-
----
 
 ✨ Thanks for stopping by! Feel free to explore my repositories and connect with me! 😃
