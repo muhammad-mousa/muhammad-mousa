@@ -59,6 +59,6 @@ I’m passionate about building **scalable, efficient, and robust solutions** wh
 
 - 🔍 **Learning:** Azure DevOps, Next.js  
 - 💡 **Researching:** Personal Branding  
-- 🔧 **Honing Skills:** LeetCode Challenges  
+- 🔧 **Honing Skills:** LeetCode Challenges, Hanker Rank Chalanges
 
 ✨ Thanks for stopping by! Feel free to explore my repositories and connect with me! 😃
