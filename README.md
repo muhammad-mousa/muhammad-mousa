@@ -1,6 +1,5 @@
 # Hi There! 👋 I'm **Muhammad Mousa Naeem**
-
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousa.naeem.01@outlook.com)   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mousa-naeem)   
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-mousa&theme=vue&hide_border=true)  
 
 ## 🚀 About Me
 I'm a **Software Engineer** with a focus on **Microsoft .NET** and **Angular**, having 1 year of professional experience.  
@@ -45,7 +44,9 @@ I’m passionate about building **scalable, efficient, and robust solutions** wh
 ---
 
 ## 📦 My Collaborations
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=mark-me&theme=radical)](https://github.com/ZU3AIRE/mark-me)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=mark-me&theme=radical)](https://github.com/ZU3AIRE/mark-me.UI)
+
+[![Repository Cards](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=markme&theme=radical)](https://github.com/ZU3AIRE/MarkMe.Backend)
 
 ---
 
@@ -60,5 +61,8 @@ I’m passionate about building **scalable, efficient, and robust solutions** wh
 - 🔍 **Learning:** Azure DevOps, Next.js  
 - 💡 **Researching:** Personal Branding  
 - 🔧 **Honing Skills:** LeetCode Challenges, Hanker Rank Chalanges
+
+## Let's Connect
+  [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousa.naeem.01@outlook.com)   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mousa-naeem) 
 
 ✨ Thanks for stopping by! Feel free to explore my repositories and connect with me! 😃
