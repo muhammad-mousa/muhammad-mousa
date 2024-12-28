@@ -44,12 +44,17 @@ I’m passionate about building **scalable, efficient, and robust solutions** wh
 ---
 
 ## 📦 My Collaborations
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=mark-me&theme=dark)](https://github.com/ZU3AIRE/mark-me.UI) [![Repository Cards](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=markme&theme=dark)](https://github.com/ZU3AIRE/MarkMe.Backend)
+| Mark Me UI                                                                   | Mark Me Backend
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| [![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=mark-me&theme=dark)](https://github.com/ZU3AIRE/mark-me.UI) | [![Repository Cards](https://github-readme-stats.vercel.app/api/pin/?username=ZU3AIRE&repo=markme&theme=dark)](https://github.com/ZU3AIRE/MarkMe.Backend) |
 
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=dark&cache_seconds=40) ![GitHub Streak](https://streak-stats.demolab.com/?user=muhammad-mousa&theme=dark) 
+
+| GitHub Stats                                                                 | Streak Stats                                                                 |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| [![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=dark&cache_seconds=40)](https://linkedin.com/in/muhammad-mousa-naeem) | [![](https://streak-stats.demolab.com/?user=muhammad-mousa&theme=dark)](https://linkedin.com/in/muhammad-mousa-naeem) |
 
 ---
 
