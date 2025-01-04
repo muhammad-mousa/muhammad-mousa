@@ -31,8 +31,6 @@ I’m passionate about building **scalable, efficient, and robust solutions** wh
 ### **Other Skills**  
 - RESTful APIs  
 - Data Structures & Algorithms  
-- Graph Theory  
-
 ---
 
 ## 📜 Certifications
