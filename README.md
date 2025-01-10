@@ -72,7 +72,7 @@ My passion lies in crafting **scalable, efficient, and robust solutions** while 
 
 ## Let's Connect  
 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousa.naeem.01@outlook.com)  
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mousa.naeem.01@outlook.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mousa-naeem)  
 
 ✨ **Thanks for stopping by! Feel free to explore my repositories and connect with me!** 😃  
