@@ -34,7 +34,8 @@ My passion lies in crafting **scalable, efficient, and robust solutions** while 
 
 ### **Other Skills**  
 - RESTful APIs  
-- Data Structures & Algorithms  
+- Data Structures & Algorithms
+- Problem Solving
 
 ---
 
