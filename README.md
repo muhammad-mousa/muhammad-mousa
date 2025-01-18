@@ -57,9 +57,9 @@ My passion lies in crafting **scalable, efficient, and robust solutions** while 
 
 ## 📈 GitHub Stats  
 
-| GitHub Stats                                                                 | Streak Stats                                                                 |
-|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=solarized-light&cache_seconds=40)](https://linkedin.com/in/muhammad-mousa-naeem) | [![](https://streak-stats.demolab.com/?user=muhammad-mousa&theme=solarized-light)](https://linkedin.com/in/muhammad-mousa-naeem) |
+| GitHub Stats                                                                 |
+|------------------------------------------------------------------------------|
+| [![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-mousa&show_icons=true&theme=solarized-light&cache_seconds=40)](https://linkedin.com/in/muhammad-mousa-naeem)
 
 ---
 
