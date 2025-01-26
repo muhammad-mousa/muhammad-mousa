@@ -3,7 +3,6 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-mousa&theme=minimal&hide_border=true&area=true)  
 
 ---
-
 ## 🚀 About Me  
 
 I'm a **Software Engineer** with a strong focus on **Microsoft .NET** and **Angular**, backed by **1 year of professional experience**.  
