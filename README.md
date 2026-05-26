@@ -5,7 +5,7 @@
 ---
 ## 🚀 About Me  
 
-I'm a **Software Engineer** with a strong focus on **Microsoft .NET** and **Angular**, backed by **1 year of professional experience**.  
+I'm a **Software Engineer** with a strong focus on **Microsoft .NET** and **Angular**, backed by **2 years of professional experience**.  
 I am currently diving deeper into **Microsoft Azure DevOps** and exploring the cutting-edge world of **AI technologies**.  
 My passion lies in crafting **scalable, efficient, and robust solutions** while staying at the forefront of evolving technologies.  
 
